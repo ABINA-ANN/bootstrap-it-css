@@ -1,0 +1,26 @@
+h1{
+    font-family: cursive;
+    color:darkmagenta;
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    color: darkslategray;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    color: dodgerblue;
+}
+ 
+     
+ul{
+    list-style: none;
+}
+footer{
+    background-color: pink;
+}
+ 
+
+
+    
